@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## CloudHotelier Free Download
 
-You can use the [editor on GitHub](https://github.com/hotel-lover/cloudhotelier-free-download/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We love innovation and we believe in free software! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That's why we strive to make the world's best Hotel Reservation System available for everyone!
 
-### Markdown
+We believe in Free Software. **CloudHotelier** is released under GPL (General Public License) but only publicly available in a bundle of (an expensive) support license and the code itself. The costs of maintaining an advanced hotel site easily add up to a couple of thousand USD per year. We break up this expensive package providing access to the code they need and removing the developer's support they are otherwise forced to pay for.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+REEDOM 0
+You have the freedom to run the program, for any purpose.
 
-```markdown
-Syntax highlighted code block
+FREEDOM 1
+You have access to the source code, the freedom to study how the program works, and the freedom to change it to make it do what you wish.
+ 
+FREEDOM 2
+You have the freedom to redistribute copies of the original program so you can help your neighbor.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hotel-lover/cloudhotelier-free-download/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+FREEDOM 3
+You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes.
