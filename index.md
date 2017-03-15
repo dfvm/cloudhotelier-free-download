@@ -24,4 +24,4 @@ What is missing here is the first level service and support that developers usua
 
 Alternatively, you can request support in Forums to receive professional help with implementation.
 
-[https://link.com](Download CloudHotelier HRS Manager FREE)
+[Download CloudHotelier HRS Manager FREE](https://link.com)
