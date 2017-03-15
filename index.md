@@ -18,8 +18,10 @@ You have the freedom to redistribute copies of the original program so you can h
 FREEDOM 3
 You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes.
 
-###CloudHotelier HRS Manager 100% authentic and unmodified.
+### CloudHotelier HRS Manager 100% authentic and unmodified FREE Download.
 
 What is missing here is the first level service and support that developers usually offer. We will not provide any support for the items we offer for download. If you need first level service and support from a developer, please consider buying the appropriate support license directly from the original author.
 
 Alternatively, you can request support in Forums to receive professional help with implementation.
+
+[https://link.com](Download CloudHotelier HRS Manager FREE)
